@@ -6,11 +6,11 @@
 
  ## Integrantes
 
- ### Cabral Leandro
- ### Ivo Bertoni
- ### Santiago Brasca
- ### Ezequiel Coria
+ #### Cabral Leandro
+ #### Ivo Bertoni
+ #### Santiago Brasca
+ #### Ezequiel Coria
 
- ## Update 1:
- ### 08/05/2023
+ ### Update 1:
+ #### 08/05/2023
  #### Entrega del trabajo en su primer parte (HTML + Propiedades de estilo predefinidas por el profesor).
