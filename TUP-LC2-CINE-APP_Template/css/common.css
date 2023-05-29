@@ -2,8 +2,8 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", "Geneva", Verdana, sans-serif;
+  font-family: 'Montserrat', sans-serif , "Lucida Sans", "Lucida Sans Regular", "Lucida Grande","Lucida Sans Unicode", "Geneva", Verdana, sans-serif;
+
 }
 :root {
   /* Declaro variables CSS con colores principales */
@@ -22,6 +22,9 @@
 body {
   height: 100%;
   width: 100%;
+  font-family: "Montserrat", sans-serif;
+  background-color: #E0E0E0;
+  color: #1d1d1d;
 }
 ul {
   list-style: none;
@@ -40,6 +43,7 @@ header {
   background-image: url("../img/FondoCine6.webp");
   border-radius: 0 0% 20px 20px;
   border-bottom: 2px solid var(--color-active);
+  border-radius: 0 0 20px 20px;
 }
 nav > ul {
   display: flex;
@@ -58,6 +62,7 @@ nav li a {
   font-weight: bold;
   color: var(--color-texto-blanco);
   background-color: var(--color-back-inactive);
+  border-radius: 5px; 
 }
 nav li.current-page a {
   color: var(--color-theme);
@@ -86,6 +91,7 @@ h2 {
   color: var(--color-titulos);
   margin: 16px 0;
   text-align: center;
+  text-shadow: 2px 2px 2px #000;
 }
 h3 {
   color: var(--color-theme);
