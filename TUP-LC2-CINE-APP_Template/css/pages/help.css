@@ -3,7 +3,7 @@
 }
 
 #sec_ayuda p {
-    text-align: justify;
+    text-align: center;
 }
 
 #form-cine_contacto input {
@@ -36,6 +36,7 @@ form label{
     margin-bottom: 0px;
 }
 #form-cine_contacto button {
+    cursor: pointer;
     border: none;
     color: #FFFFFF;
     padding: 12px;
