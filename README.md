@@ -7,3 +7,7 @@
  #### Update 1:
  ##### 08/05/2023
  ##### Entrega del trabajo en su primer parte (HTML + Propiedades de estilo predefinidas por el profesor).
+
+#### Update 2:
+##### 29/05/2023
+##### Entrega del trabajo en su segunda parte (HTML + CSS).
