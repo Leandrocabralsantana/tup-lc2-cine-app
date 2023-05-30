@@ -38,7 +38,7 @@
     <section id="form-cine_contacto">
       <!-- Sección donde se debe colocar el formulario de contacto-->
       <form class="form-container">
-        <div>
+        <div id="form-container-div">
           <p>Nombre:</p>
           <label for="name"></label>
           <input type="text" id="name" name="name" required>
@@ -56,6 +56,9 @@
         <div>
           <button type="reset">Limpiar</button>
           <button type="submit">Enviar</button>
+        </div>
+        <div id="error-message">
+          <p id="form-message">Ingrese un Email válido</p>
         </div>
       </form>
     </section>
